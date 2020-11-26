@@ -25,7 +25,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use crate::leetcode1389::Solution;
+    use super::*;
 
     #[test]
     fn t_create_target_array() {
